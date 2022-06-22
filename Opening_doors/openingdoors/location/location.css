@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+h1{
+    text-align:center; 
+     position: absolute;
+      top: 30%;
+       left: 50%;
+        transform: translate(-50%, -50%);
+         color:white;
+          font-family:single day;
+}
+
+h5{
+    text-align:center; 
+     position: absolute;
+      top: 35%;
+       left: 50%; 
+       transform: translate(-50%, -50%); 
+       color:white; 
+       font-family:Sansita Swashed;
+}
+
+h2{
+    color:#76481E;
+    text-align: center;
+    margin-top: 1em;
+    font-family: Sansation;
+}
+#akchour{
+    width: 20em;
+    margin-top: -11em;
+    margin-left: 53em;
+}
+
+#h2{
+    color:#76481E;
+    text-align: center;
+    /* margin-top: 1em; */
+    font-family: Sansation;
+}
+#home1{
+    width: 26em;
+    margin-left: 2.3em;
+}
+h3{
+    text-align: center;
+    font-family: Signika;
+    color: black;
+}
+.fa-solid{
+    color: black;
+}
+.btn{
+    background-color: #76481E;
+    color: white;
+}

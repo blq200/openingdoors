@@ -1,0 +1,23 @@
+
+form {
+  
+    display: flex;
+ flex-direction: column;
+  
+   width: 26em;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+h1 {
+    font-family: Staatliches;
+} 
+h6{
+    font-family: Rubik;
+
+}
+button{
+    width: 200px;
+}

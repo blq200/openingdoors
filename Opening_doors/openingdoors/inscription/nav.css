@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+i{
+    color:rgb(255, 255, 255);
+}
+/* .navbar{
+    
+        display:flex;
+        flex-direction:row;margin:2%; 
+        justify-content: space-around;
+        justify-content: end;
+        
+    
+  } */
+  #user{
+    border:2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 100%;
+   
+
+  }
+ 

@@ -1,0 +1,318 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.btn{
+    width: 6em;
+    height: 2.2em;
+    border-radius: 22px;
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    
+}
+header{
+    background-image: url(header1.png);
+    background-size: cover;
+    margin-top: -1.9em;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 22em;
+    
+}
+i{
+    color: white;   
+}
+section{
+    display:flex;
+    flex-direction:row;margin:2%; 
+    justify-content: space-around;
+    justify-content: end;
+    
+}
+h1{
+    color: white;
+    font-family: single day;
+    font-size:3em;
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.subtitle{
+    color: white;
+    font-family: Sansita Swashed;
+    justify-content: center;
+    font-size: 1.5em;
+}
+h2{
+    text-align: center;
+    margin-top: 1em;
+    font-family: Signika Negative;
+}
+
+h3{
+    text-align: center;
+    margin-top: 1em;
+    color: #76481E;
+    font-family: Simonetta;
+}
+/* img{
+    margin-left: 5.7em;
+    margin-top: 2em;
+} */
+
+/* #rectangle{
+    background-image: url(rectangle.png);
+    background-repeat: no-repeat;
+    margin-left: 5.7em;
+    margin-top: 2em;
+
+} */
+
+h5{
+    text-align: center;
+   
+}
+/* .languages{
+    width: 5em;
+    height: 2.2em;
+    border-radius: 22px;
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    
+} */
+
+/* .languages::before{
+content: '';
+display: block;
+width: 12em;
+height: 12em;
+background-image: url(https//www.countryflags.io/us/flat/32.png);
+} */
+/* #map{
+    width: 100%;
+    height: 400px ;
+    background-color: gray;
+} */
+
+.sign{
+    text-align: center;
+    color: #EBB88A;
+}
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 2.7em;
+    text-align: center;
+    margin-top: 1em;
+    font-family: Sarabun;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#input{
+    width: 25em;
+    border-radius: 12px;
+    background-color: #d9d9d966;
+    height: 2.5em;
+    
+    
+}
+::placeholder{
+    color:white;
+    font-family: Sarabun;
+    
+
+}
+
+.rectangle {
+    width: 101%;
+    height: 516px;
+    background: #D9D9D9;
+    transform: rotate(-2.99deg);
+  
+   
+
+
+
+}
+#all{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 250px;
+    position: absolute;
+    top: 95%;
+}
+
+#rania{
+    width: 14em;
+    margin-top: -15em;
+}
+
+#rectangle{
+    margin-top: 9em;
+}
+#home2{
+    margin-top: -7em;
+    width: 40em;
+    height: 33em;
+
+
+}
+#name{
+    text-align: center;
+    font-size: 1.5em;
+}
+#text{
+    font-family: Share Tech;
+}
+/* #i{
+    font-family:Simonetta ;
+    color: black;
+} */
+
+
+#creator{
+    text-align: center;
+    color: #76481E;
+    font-family: Simonetta;
+}
+#join{
+    color: #76481E;
+    font-family: Simonetta;
+    text-align: end;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+       
+}
+a:hover{
+    color: black;
+}  
+
+#place{
+    margin-top: 4em;
+    text-align: center;
+    font-family: Rubik;
+    color: black;
+}
+
+#morocco{
+    transform: rotate(3.3deg);
+    /* display: flex;
+    flex-wrap: wrap;
+    gap: 250px;
+    position: absolute;
+    top: 95%; */
+}
+#home{
+    /* margin-top: 34em; */
+    width: 40em;
+    height: 33em;
+}
+
+/* #second{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 250px;
+    left: 60%;
+    position: absolute;
+    top: 65%;
+    text-align: center;
+     font-size: 1.5em;
+ 
+} */
+
+#log{
+    font-family: Sahitya;
+    color: #76481E;
+    text-align: center;
+}
+#veri{
+    margin-top: 4em;
+    text-align: center;
+    font-family: Rubik;
+    color: black;
+}
+#more{
+    width: 3.2em;
+}
+#chef{
+    width: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hours{
+    width: 3.2em;
+}
+
+h4{
+    color: #76481E;
+    font-family: rubik;
+}
+#alog{
+    color: #76481E;
+}
+
+h6{
+    /* text-align: center; */
+    color: #76481E;
+    font-family: Simonetta;
+}
+
+#contact{
+    color: #76481E;
+    font-family: Simonetta;
+    text-align: center;
+}
+#icon{
+    color: #917051;
+}
+#select{
+    width: 25em;
+    height: 2.3em;
+    background-color:#d9d9d966;
+    border-radius: 12px;
+}
+#subm{
+    color: white;
+    font-family: Sansation;
+    background-color: #bb895e9d;
+    border: white;
+    width: 7em;
+    height: 2em;
+    margin-top: -1em;
+    border-radius: 5px;
+}
+#p{
+    color: white;
+}
+.log{
+    text-align: center;
+    color: #EBB88A;
+}
+#input2{
+    width: 25em;
+    border-radius: 12px;
+    background-color: #d9d9d966;
+    height: 2.5em;
+    margin-top: 3em;
+}
+.title2{
+    color: rgb(255, 255, 255);
+    font-size: 2.7em;
+    text-align: center;
+    margin-top: 3.8em;
+    font-family: Sarabun;
+}

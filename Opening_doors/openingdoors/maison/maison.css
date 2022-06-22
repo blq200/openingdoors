@@ -1,0 +1,116 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#header{
+    height: 26em;
+    width: 100%;
+}
+
+h1{
+    text-align:center; 
+     position: absolute;
+      top: 30%;
+       left: 50%;
+        transform: translate(-50%, -50%);
+         color:white;
+          font-family:single day;
+}
+
+h5{
+    text-align:center; 
+     position: absolute;
+      top: 35%;
+       left: 50%; 
+       transform: translate(-50%, -50%); 
+       color:white; 
+       font-family:Sansita Swashed;
+}
+
+h6{
+    margin-top: 2em;
+    margin-left: 4em;
+    font-family: Signika;
+    color: black;
+    text-align: center;
+}
+p{
+    font-family: Saira SemiCondensed ;
+    color: black;
+    text-align: center;
+}
+
+h7{
+    color: #AE7B4C;
+    margin-left: 3em;
+}
+
+
+#home{
+font-family: 'Saira SemiCondensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+/* margin-left: -0.23em; */
+
+
+}
+#div1{
+    box-sizing: border-box;
+    border: #AE7B4C 1px solid;
+    /* margin-left: 13em;    */
+    /* margin-left:-40em; */
+    height: 200px;
+    width: 300px;
+    border-radius: 22px;
+}
+
+
+#maison{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#div2{
+    box-sizing: border-box;
+    border: #AE7B4C 1px solid;
+    border-radius: 22px;
+    /* margin-left: 13em;
+    margin-top: -14em;
+    /* margin-left:-40em; */
+    /*
+    border-radius: 22px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 50em;  */
+    height: 200px;
+    width: 300px;
+}
+#apartment{
+    /* margin-top: -10em; */
+    /* margin-left: 10em; */
+    /* display: flex; */
+   
+    align-items: center;
+    /* flex-direction: row-reverse;
+    margin-left: 50em;
+     */
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ 
+
+}
+
+#apar{
+    font-family: 'Saira SemiCondensed'; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;  
+    /* margin-left: -0.23em; */
+    /* margin-top: 4em;
+    /* display: flex; */
+    /* flex-direction: row-reverse;  */
+    
+}
